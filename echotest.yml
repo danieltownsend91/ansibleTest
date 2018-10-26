@@ -3,4 +3,4 @@
   connection: local
   tasks:
     - name : echo 
-      command: echo "test"
+      command: echo "test" -vvv
